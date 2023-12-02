@@ -1,6 +1,6 @@
 # AoC 2023
 
-My take on advent of code 2023 (https://adventofcode.com/2023/day/)
+My take on advent of code 2023 (https://adventofcode.com/2023/)
 
 Primarily doing the challenges in SQL (specific Postgresql) with support of powershell when necessary.
 
